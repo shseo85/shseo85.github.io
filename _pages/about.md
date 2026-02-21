@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Researcher</a>. Domain-Embedded AI Architect.
+subtitle: <a href='#'>Senior Researcher, KICT</a>. Domain-Embedded AI Architect.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Korea Institute of Civil Engineering and Building Technology (KICT)</p>
     <p>Domain-Embedded AI Architect</p>
