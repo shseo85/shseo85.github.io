@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Senior Researcher</a>. Domain-Embedded AI Architect.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Korea Institute of Civil Engineering and Building Technology (KICT)</p>
-    <p>Department of Geotechnical Engineering Research </p>
     <p>Domain-Embedded AI Architect</p>
     <p>Email: seunghwanseo@kict.re.kr</p>
 
@@ -28,12 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Researcher at the Korea Institute of Civil Engineering and Building Technology (KICT), working at the intersection of stochastic mechanics, machine learning, and intelligent infrastructure systems. My research is driven by a central question: how can we build reliable and interpretable AI models for engineering systems where data are inherently heterogeneous, noisy, and uncertain? I approach this challenge by integrating probabilistic theory, uncertainty-aware representation learning, and deployable AI architectures for safety-critical infrastructure applications.
+I am a Senior Researcher at the Korea Institute of Civil Engineering and Building Technology (KICT), working at the intersection of stochastic mechanics, machine learning, and intelligent infrastructure systems. My research centers on a fundamental question: how can we develop reliable and interpretable AI models for engineering systems where data are heterogeneous, noisy, and uncertain? I address this by integrating probabilistic theory, uncertainty-aware representation learning, and deployable AI architectures for safety-critical applications.
 
-My academic foundation began with stochastic process theory. In my Master’s thesis, “A Study on Formation of Sand Waves in Movable Bed Based on Stochastic Processes”, I investigated how random sediment particle motions at the microscopic scale give rise to organized sand-wave patterns at the macroscopic riverbed scale. By connecting deterministic governing equations with probabilistic formulations such as the Kramers–Moyal and Fokker–Planck equations, I explored how randomness and structural order coexist across scales. This work established my long-term research philosophy: engineering phenomena must be understood through the interplay of stochastic behavior and emergent structure.
+My academic foundation lies in stochastic process theory. In my Master’s thesis on sand-wave formation in movable beds, I examined how microscopic random sediment motions generate macroscopic structural patterns. By connecting deterministic governing equations with probabilistic formulations such as the Kramers–Moyal and Fokker–Planck equations, I established a research philosophy centered on the interplay between stochastic behavior and emergent structure across scales.
 
-Building on this foundation, my doctoral research transitioned from physical stochastic systems to data-driven uncertainty modeling in heterogeneous tabular domains. My Ph.D. dissertation, “Uncertainty-Aware Representation and Label Refinement on Tabular Data: Methods and Engineering Applications,” addresses the fundamental challenge that tabular data—prevalent in infrastructure management, healthcare, and finance—lack structural priors and often contain unreliable features and subjective labels. I developed UA-Tab, an Uncertainty-Aware Self-Supervised Learning framework that jointly models feature relevance and feature reliability through an attention–uncertainty mechanism, generating semantically consistent representations via latent-space perturbation. Complementing this, I proposed GF-KDA (Graph-Free Kernel Discriminant Analysis), a noise-resilient label refinement framework that performs confidence-based propagation directly in uncertainty-aware kernel space, eliminating the instability of explicit graph construction. Together, these methods establish a unified paradigm for uncertainty-aware representation learning and label refinement in tabular data, demonstrating robust performance under feature corruption, noisy supervision, and domain shift.
+My doctoral research extended this perspective to data-driven uncertainty modeling in heterogeneous tabular domains. In my Ph.D. dissertation, “Uncertainty-Aware Representation and Label Refinement on Tabular Data: Methods and Engineering Applications,” I addressed the lack of structural priors and the prevalence of unreliable features and subjective labels in tabular data. I developed UA-Tab, an uncertainty-aware self-supervised learning framework that jointly models feature relevance and reliability through an attention–uncertainty mechanism with latent-space perturbation. In parallel, I proposed GF-KDA, a noise-resilient label refinement framework that performs confidence-based propagation in uncertainty-aware kernel space without explicit graph construction. Together, these methods establish a unified paradigm for robust representation learning and label refinement under feature corruption, noisy supervision, and domain shift.
 
-At KICT, I extend these methodological contributions to intelligent geotechnical and infrastructure systems. My current research includes excavation-induced wall deformation prediction under domain shift, nationwide slope risk assessment using large-scale management databases, pile bearing capacity estimation through data-driven modeling, domain adaptation for monitoring data, and AI-integrated structural health evaluation. In these real-world settings, uncertainty arises not only from measurement noise but also from environmental variability and human expert judgment. Rather than suppressing uncertainty, I treat it as a first-class modeling principle, embedding it directly into representation learning, supervision refinement, and knowledge distillation pipelines.
-
-My research aims to bridge stochastic mechanics and modern machine learning, advancing uncertainty-aware AI methodologies that are interpretable, stable, and deployable for safety-critical infrastructure systems operating under imperfect information.
+At KICT, I apply these methodologies to intelligent geotechnical and infrastructure systems, including wall deformation prediction under domain shift, nationwide slope risk assessment, pile bearing capacity estimation, monitoring-data domain adaptation, and AI-integrated structural health evaluation. In these contexts, uncertainty arises from measurement noise, environmental variability, and expert judgment. Rather than suppressing it, I embed uncertainty directly into representation learning, supervision refinement, and knowledge distillation frameworks.
