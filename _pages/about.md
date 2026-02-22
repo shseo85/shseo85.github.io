@@ -45,4 +45,4 @@ At KICT, I apply these methodologies to intelligent geotechnical and infrastruct
   (time-series modeling, domain shift / domain adaptation, deployable prediction pipelines)
 - **Data-driven geotechnics and sensing**: pile capacity estimation, seepage modeling, Raman-based carbonation assessment, DIC-based field measurement
 
-A curated list is shown below. For the full list, please visit **/publications/**.
+A curated list is shown below. For the full list, please visit **/publications/** or <a href="https://scholar.google.com/citations?user=H9j924sAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">**Google Scholar**</a>
