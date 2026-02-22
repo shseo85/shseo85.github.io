@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Senior Researcher, KICT · Domain-Embedded AI Architect.</a>.
+subtitle: <a href='#'>Senior Researcher, KICT · Domain-Embedded AI Architect</a>
 
 profile:
   align: right
