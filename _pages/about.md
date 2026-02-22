@@ -24,6 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+{% include social.liquid %}
 
 Uncertainty and unreliable data remain major obstacles to deploying AI in safety-critical engineering systems. My research develops uncertainty-aware and interpretable AI frameworks that enable reliable decision-making under imperfect information.
 
