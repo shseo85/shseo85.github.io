@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Full publication list on Google Scholar",
+          description: "Full publication list on  Google Scholar →",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
