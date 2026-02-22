@@ -12,7 +12,7 @@ profile:
     <p>Email: seunghwanseo@kict.re.kr</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -24,7 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-{% include social.liquid %}
 
 Uncertainty and unreliable data remain major obstacles to deploying AI in safety-critical engineering systems. My research develops uncertainty-aware and interpretable AI frameworks that enable reliable decision-making under imperfect information.
 
