@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-04-01'
 papers:
   H9j924sAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: Feasibility Appraisal and Proposal of a Pile Driving Formula for Domestic Pre-bored Pile Management
     year: '2023'
   H9j924sAAAAJ:7PzlFSSx8tAC:
-    citations: 1
+    citations: 2
     title: Uncertainty-based on-site carbonation depth estimation of underground concrete structures using portable Raman spectrometer
     year: '2024'
   H9j924sAAAAJ:8k81kl-MbHgC:
@@ -50,7 +50,7 @@ papers:
     title: Supervised Domain Adaptation for Remaining Useful Life Prediction of Aircraft Engines Using AdaBoost-LSTM
     year: '2024'
   H9j924sAAAAJ:IjCSPb-OGe4C:
-    citations: 12
+    citations: 13
     title: Development of an ensemble prediction model for lateral deformation of retaining wall under construction
     year: '2023'
   H9j924sAAAAJ:KlAtU1dfN6UC:
@@ -66,11 +66,11 @@ papers:
     title: Polynomial model controlling the physical properties of a gypsum-sand mixture (GSM)
     year: '2023'
   H9j924sAAAAJ:M3ejUd6NZC8C:
-    citations: 13
+    citations: 14
     title: Effect of joint characteristics and geometries on tunnel-type anchorage for suspension bridge
     year: '2021'
   H9j924sAAAAJ:MXK_kJrjxJIC:
-    citations: 5
+    citations: 6
     title: Geotechnical factors influencing earth retaining wall deformation during excavations
     year: '2023'
   H9j924sAAAAJ:QIV2ME_5wuYC:
@@ -85,16 +85,20 @@ papers:
     citations: 12
     title: Analysis of pull-out behavior of tunnel-type anchorage for suspended bridge using 2-D model tests and numerical analysis
     year: '2018'
+  H9j924sAAAAJ:TFP_iSt0sucC:
+    citations: 0
+    title: 'Uncertainty-Aware Representation and Label Refinement on Tabular Data: Methods and Engineering Applications'
+    year: '2026'
   H9j924sAAAAJ:TQgYirikUcIC:
     citations: 0
     title: 'Ua-Tab: Uncertainty-Aware Self-Supervised Representation Learning for Tabular Data'
-    year: Unknown Year
+    year: '2025'
   H9j924sAAAAJ:Tyk-4Ss8FVUC:
     citations: 27
     title: Evaluation of failure mode of tunnel-type anchorage for a suspension bridge via scaled model tests and image processing
     year: '2021'
   H9j924sAAAAJ:ULOm3_A8WrAC:
-    citations: 5
+    citations: 6
     title: Feasibility evaluation of the 3D-DIC non contact measurement system using small-scaled model test of earth retaining wall
     year: '2021'
   H9j924sAAAAJ:UeHWp8X0CEIC:
@@ -122,7 +126,7 @@ papers:
     title: Study on the Applicability of Muography Exploration Technology in Underground Space Development
     year: '2021'
   H9j924sAAAAJ:YOwf2qJgpHMC:
-    citations: 88
+    citations: 91
     title: 'Site application of biopolymer-based soil treatment (BPST) for slope surface protection: In-situ wet-spraying method and strengthening effect verification'
     year: '2021'
   H9j924sAAAAJ:YsMSGLbcyi4C:
@@ -158,19 +162,23 @@ papers:
     title: Apparatus for measuring slope change amount of structure and method for measuring slope change amount of structure using same
     year: '2023'
   H9j924sAAAAJ:hC7cP41nSMkC:
-    citations: 0
+    citations: 2
     title: Assessment of Risk Levels in Cut-Slope Using Dimensionality Reduction and Clustering Analysis
     year: '2024'
   H9j924sAAAAJ:hqOjcs7Dif8C:
     citations: 2
     title: Assessment of Equivalent Heights of Soil for the Lateral Earth Pressure Against Retaining Walls Due to Design Truck Load
     year: '2018'
+  H9j924sAAAAJ:isC4tDSrTZIC:
+    citations: 0
+    title: Controlling diffusion in label spreading via thermodynamic condensation
+    year: '2026'
   H9j924sAAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: '2117 Practical method for pile construction management using non-contact pile penetration movement measuring device and pile driving formulas: A case study'
     year: '2023'
   H9j924sAAAAJ:kNdYIx-mwKoC:
-    citations: 16
+    citations: 17
     title: Evaluation of applicability of 1D-CNN and LSTM to predict horizontal displacement of retaining wall according to excavation work
     year: '2022'
   H9j924sAAAAJ:mB3voiENLucC:
@@ -182,7 +190,7 @@ papers:
     title: 'Enhancing quality management of PHC piles through improved driving formulas: a comprehensive review and analysis'
     year: '2024'
   H9j924sAAAAJ:qUcmZB5y_30C:
-    citations: 10
+    citations: 12
     title: Leveraging data-driven machine learning techniques to enhance bearing capacity estimation in prebored and precast piles
     year: '2025'
   H9j924sAAAAJ:qjMakFHDy7sC:
