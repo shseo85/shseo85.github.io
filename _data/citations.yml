@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-04'
 papers:
   H9j924sAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Estimation of the phreatic line for one-dimensional unsteady seepage flow using similarity transformation
     year: '2024'
   H9j924sAAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 1
     title: 'Challenging domain shift in excavation-induced wall deformation prediction: Feasibility of adversarial-discrepancy domain adaptation'
     year: '2026'
   H9j924sAAAAJ:4TOpqqG69KYC:
@@ -106,7 +106,7 @@ papers:
     title: Design and analysis of micro-vibration isolation system for digital image correlation system-based structural health monitoring
     year: '2022'
   H9j924sAAAAJ:UebtZRa9Y70C:
-    citations: 17
+    citations: 18
     title: Evaluation of field applicability of high-Speed 3D digital image correlation for shock vibration measurement in underground mining
     year: '2022'
   H9j924sAAAAJ:W7OEmFMy1HYC:
@@ -126,7 +126,7 @@ papers:
     title: Study on the Applicability of Muography Exploration Technology in Underground Space Development
     year: '2021'
   H9j924sAAAAJ:YOwf2qJgpHMC:
-    citations: 91
+    citations: 92
     title: 'Site application of biopolymer-based soil treatment (BPST) for slope surface protection: In-situ wet-spraying method and strengthening effect verification'
     year: '2021'
   H9j924sAAAAJ:YsMSGLbcyi4C:
