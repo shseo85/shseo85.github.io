@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-27'
 papers:
   H9j924sAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -66,7 +66,7 @@ papers:
     title: Polynomial model controlling the physical properties of a gypsum-sand mixture (GSM)
     year: '2023'
   H9j924sAAAAJ:M3ejUd6NZC8C:
-    citations: 17
+    citations: 18
     title: Effect of joint characteristics and geometries on tunnel-type anchorage for suspension bridge
     year: '2021'
   H9j924sAAAAJ:MXK_kJrjxJIC:
@@ -94,7 +94,7 @@ papers:
     title: 'Ua-Tab: Uncertainty-Aware Self-Supervised Representation Learning for Tabular Data'
     year: '2025'
   H9j924sAAAAJ:Tyk-4Ss8FVUC:
-    citations: 28
+    citations: 29
     title: Evaluation of failure mode of tunnel-type anchorage for a suspension bridge via scaled model tests and image processing
     year: '2021'
   H9j924sAAAAJ:ULOm3_A8WrAC:
@@ -126,7 +126,7 @@ papers:
     title: Study on the Applicability of Muography Exploration Technology in Underground Space Development
     year: '2021'
   H9j924sAAAAJ:YOwf2qJgpHMC:
-    citations: 94
+    citations: 95
     title: 'Site application of biopolymer-based soil treatment (BPST) for slope surface protection: In-situ wet-spraying method and strengthening effect verification'
     year: '2021'
   H9j924sAAAAJ:YsMSGLbcyi4C:
@@ -194,7 +194,7 @@ papers:
     title: 'Enhancing quality management of PHC piles through improved driving formulas: a comprehensive review and analysis'
     year: '2024'
   H9j924sAAAAJ:qUcmZB5y_30C:
-    citations: 14
+    citations: 15
     title: Leveraging data-driven machine learning techniques to enhance bearing capacity estimation in prebored and precast piles
     year: '2025'
   H9j924sAAAAJ:qjMakFHDy7sC:
