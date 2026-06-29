@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-29'
 papers:
   H9j924sAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -50,7 +50,7 @@ papers:
     title: Supervised Domain Adaptation for Remaining Useful Life Prediction of Aircraft Engines Using AdaBoost-LSTM
     year: '2024'
   H9j924sAAAAJ:IjCSPb-OGe4C:
-    citations: 13
+    citations: 12
     title: Development of an ensemble prediction model for lateral deformation of retaining wall under construction
     year: '2023'
   H9j924sAAAAJ:KlAtU1dfN6UC:
@@ -126,7 +126,7 @@ papers:
     title: Study on the Applicability of Muography Exploration Technology in Underground Space Development
     year: '2021'
   H9j924sAAAAJ:YOwf2qJgpHMC:
-    citations: 94
+    citations: 96
     title: 'Site application of biopolymer-based soil treatment (BPST) for slope surface protection: In-situ wet-spraying method and strengthening effect verification'
     year: '2021'
   H9j924sAAAAJ:YsMSGLbcyi4C:
