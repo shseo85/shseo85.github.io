@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-01'
 papers:
   H9j924sAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -53,6 +53,10 @@ papers:
     citations: 12
     title: Development of an ensemble prediction model for lateral deformation of retaining wall under construction
     year: '2023'
+  H9j924sAAAAJ:JV2RwH3_ST0C:
+    citations: 0
+    title: 'UA-Tab: Uncertainty-Aware Self-Supervised Representation Learning for Tabular Data'
+    year: '2026'
   H9j924sAAAAJ:KlAtU1dfN6UC:
     citations: 2
     title: The Study on Blast Effects of Stemming Materials by Trauzl Lead Block Test and High Speed 3D-DIC Systems
@@ -89,10 +93,6 @@ papers:
     citations: 0
     title: 'Uncertainty-Aware Representation and Label Refinement on Tabular Data: Methods and Engineering Applications'
     year: '2026'
-  H9j924sAAAAJ:TQgYirikUcIC:
-    citations: 0
-    title: 'Ua-Tab: Uncertainty-Aware Self-Supervised Representation Learning for Tabular Data'
-    year: '2025'
   H9j924sAAAAJ:Tyk-4Ss8FVUC:
     citations: 29
     title: Evaluation of failure mode of tunnel-type anchorage for a suspension bridge via scaled model tests and image processing
@@ -126,7 +126,7 @@ papers:
     title: Study on the Applicability of Muography Exploration Technology in Underground Space Development
     year: '2021'
   H9j924sAAAAJ:YOwf2qJgpHMC:
-    citations: 96
+    citations: 97
     title: 'Site application of biopolymer-based soil treatment (BPST) for slope surface protection: In-situ wet-spraying method and strengthening effect verification'
     year: '2021'
   H9j924sAAAAJ:YsMSGLbcyi4C:
@@ -193,6 +193,10 @@ papers:
     citations: 4
     title: 'Enhancing quality management of PHC piles through improved driving formulas: a comprehensive review and analysis'
     year: '2024'
+  H9j924sAAAAJ:maZDTaKrznsC:
+    citations: 0
+    title: 'Rethinking soft-ground settlement prediction: Learning settlement behavior via conditional generative modeling for cross-site generalization'
+    year: '2026'
   H9j924sAAAAJ:qUcmZB5y_30C:
     citations: 16
     title: Leveraging data-driven machine learning techniques to enhance bearing capacity estimation in prebored and precast piles
