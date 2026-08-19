@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-19'
 papers:
   H9j924sAAAAJ:-f6ydRqryjwC:
-    citations: 3
+    citations: 4
     title: Time series analysis for predicting deformation of earth retaining walls
     year: '2024'
   H9j924sAAAAJ:2osOgNQ5qMEC:
@@ -21,16 +21,12 @@ papers:
     citations: 1
     title: 'Challenging domain shift in excavation-induced wall deformation prediction: Feasibility of adversarial-discrepancy domain adaptation'
     year: '2026'
-  H9j924sAAAAJ:4TOpqqG69KYC:
-    citations: 1
-    title: Design and verification of 3D digital image correlation systems for measurement of large object displacement using stereo camera
-    year: '2020'
   H9j924sAAAAJ:5nxA0vEk-isC:
     citations: 1
     title: Feasibility Appraisal and Proposal of a Pile Driving Formula for Domestic Pre-bored Pile Management
     year: '2023'
   H9j924sAAAAJ:7PzlFSSx8tAC:
-    citations: 3
+    citations: 4
     title: Uncertainty-based on-site carbonation depth estimation of underground concrete structures using portable Raman spectrometer
     year: '2024'
   H9j924sAAAAJ:8k81kl-MbHgC:
@@ -41,10 +37,6 @@ papers:
     citations: 0
     title: Assessment of Equivalent Heights of Soil for the Lateral Earth Pressure Against Retaining Walls Due to Design Truck Load by 3D Numerical Analysis
     year: '2019'
-  H9j924sAAAAJ:HDshCWvjkbEC:
-    citations: 0
-    title: Deep Learning-Based Prediction of Rock Fragmentation Using Hierarchical Structure of Drilling and Blasting Data
-    year: '2025'
   H9j924sAAAAJ:IWHjjKOFINEC:
     citations: 0
     title: Supervised Domain Adaptation for Remaining Useful Life Prediction of Aircraft Engines Using AdaBoost-LSTM
@@ -70,13 +62,17 @@ papers:
     title: Polynomial model controlling the physical properties of a gypsum-sand mixture (GSM)
     year: '2023'
   H9j924sAAAAJ:M3ejUd6NZC8C:
-    citations: 18
+    citations: 19
     title: Effect of joint characteristics and geometries on tunnel-type anchorage for suspension bridge
     year: '2021'
   H9j924sAAAAJ:MXK_kJrjxJIC:
-    citations: 6
+    citations: 8
     title: Geotechnical factors influencing earth retaining wall deformation during excavations
     year: '2023'
+  H9j924sAAAAJ:NMxIlDl6LWMC:
+    citations: 0
+    title: Design and verification of 3D digital image correlation systems for measurement of large object displacement using stereo camera
+    year: '2020'
   H9j924sAAAAJ:QIV2ME_5wuYC:
     citations: 0
     title: Full-Scale Blasting Experiment and Field Verification Research Using Shock-Reactive Smart Fluid Stemming Materials
@@ -94,19 +90,19 @@ papers:
     title: 'Uncertainty-Aware Representation and Label Refinement on Tabular Data: Methods and Engineering Applications'
     year: '2026'
   H9j924sAAAAJ:Tyk-4Ss8FVUC:
-    citations: 29
+    citations: 31
     title: Evaluation of failure mode of tunnel-type anchorage for a suspension bridge via scaled model tests and image processing
     year: '2021'
   H9j924sAAAAJ:ULOm3_A8WrAC:
-    citations: 8
+    citations: 7
     title: Feasibility evaluation of the 3D-DIC non contact measurement system using small-scaled model test of earth retaining wall
     year: '2021'
   H9j924sAAAAJ:UeHWp8X0CEIC:
-    citations: 8
+    citations: 9
     title: Design and analysis of micro-vibration isolation system for digital image correlation system-based structural health monitoring
     year: '2022'
   H9j924sAAAAJ:UebtZRa9Y70C:
-    citations: 19
+    citations: 20
     title: Evaluation of field applicability of high-Speed 3D digital image correlation for shock vibration measurement in underground mining
     year: '2022'
   H9j924sAAAAJ:W7OEmFMy1HYC:
@@ -126,7 +122,7 @@ papers:
     title: Study on the Applicability of Muography Exploration Technology in Underground Space Development
     year: '2021'
   H9j924sAAAAJ:YOwf2qJgpHMC:
-    citations: 99
+    citations: 102
     title: 'Site application of biopolymer-based soil treatment (BPST) for slope surface protection: In-situ wet-spraying method and strengthening effect verification'
     year: '2021'
   H9j924sAAAAJ:YsMSGLbcyi4C:
@@ -142,13 +138,17 @@ papers:
     title: Application of Digital Image Correlation Method for Measurement of Rock Pillar Displacement and Vibration Due to Underground Mine Blasting
     year: '2019'
   H9j924sAAAAJ:_Qo2XoVZTnwC:
-    citations: 0
+    citations: 1
     title: Graph-Free Kernel Discriminant Analysis for Noise-Resilient Label Spreading
     year: '2026'
   H9j924sAAAAJ:_kc_bZDykSQC:
     citations: 3
     title: Influence of geometric factors on pull-out resistance of gravity-type anchorage for suspension bridge
     year: '2022'
+  H9j924sAAAAJ:blknAaTinKkC:
+    citations: 0
+    title: A Study on Open-Pit Blasting Design Method Applying Charge per Hole as an Input Variable
+    year: '2025'
   H9j924sAAAAJ:d1gkVwhDpl0C:
     citations: 12
     title: Analysis of the passive earth pressure on a gravity-type anchorage for a suspension bridge
@@ -160,11 +160,15 @@ papers:
   H9j924sAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: Apparatus for measuring slope change amount of structure and method for measuring slope change amount of structure using same
-    year: '2023'
+    year: '2021'
   H9j924sAAAAJ:hC7cP41nSMkC:
-    citations: 2
+    citations: 3
     title: Assessment of Risk Levels in Cut-Slope Using Dimensionality Reduction and Clustering Analysis
     year: '2024'
+  H9j924sAAAAJ:hMod-77fHWUC:
+    citations: 0
+    title: Deep Learning-Based Prediction of Rock Fragmentation Using Hierarchical Structure of Drilling and Blasting Data
+    year: '2025'
   H9j924sAAAAJ:hqOjcs7Dif8C:
     citations: 2
     title: Assessment of Equivalent Heights of Soil for the Lateral Earth Pressure Against Retaining Walls Due to Design Truck Load
@@ -184,11 +188,7 @@ papers:
   H9j924sAAAAJ:k_IJM867U9cC:
     citations: 0
     title: 'XMR-Net: Residual-corrected blast-hole hierarchical learning for blast fragmentation prediction'
-    year: '2026'
-  H9j924sAAAAJ:mB3voiENLucC:
-    citations: 0
-    title: A Study on Open-Pit Blasting Design Method Applying Charge per Hole as an Input Variable
-    year: '2025'
+    year: Unknown Year
   H9j924sAAAAJ:mVmsd5A6BfQC:
     citations: 5
     title: 'Enhancing quality management of PHC piles through improved driving formulas: a comprehensive review and analysis'
@@ -198,7 +198,7 @@ papers:
     title: 'Rethinking soft-ground settlement prediction: Learning settlement behavior via conditional generative modeling for cross-site generalization'
     year: '2026'
   H9j924sAAAAJ:qUcmZB5y_30C:
-    citations: 16
+    citations: 18
     title: Leveraging data-driven machine learning techniques to enhance bearing capacity estimation in prebored and precast piles
     year: '2025'
   H9j924sAAAAJ:qjMakFHDy7sC:
@@ -210,8 +210,8 @@ papers:
     title: 'Practical method for pile construction management using non-contact pile penetration movement measuring device and pile driving formulas: A case study'
     year: '2023'
   H9j924sAAAAJ:r0BpntZqJG4C:
-    citations: 0
-    title: Study of Prediction of Liquefaction Potential Index Based on Machine Learning Method
+    citations: 1
+    title: Study of prediction of liquefaction potential index based on machine learning method
     year: '2024'
   H9j924sAAAAJ:u-x6o8ySG0sC:
     citations: 4
