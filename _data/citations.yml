@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-24'
 papers:
   H9j924sAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -26,7 +26,7 @@ papers:
     title: Feasibility Appraisal and Proposal of a Pile Driving Formula for Domestic Pre-bored Pile Management
     year: '2023'
   H9j924sAAAAJ:7PzlFSSx8tAC:
-    citations: 4
+    citations: 5
     title: Uncertainty-based on-site carbonation depth estimation of underground concrete structures using portable Raman spectrometer
     year: '2024'
   H9j924sAAAAJ:8k81kl-MbHgC:
@@ -62,7 +62,7 @@ papers:
     title: Polynomial model controlling the physical properties of a gypsum-sand mixture (GSM)
     year: '2023'
   H9j924sAAAAJ:M3ejUd6NZC8C:
-    citations: 19
+    citations: 20
     title: Effect of joint characteristics and geometries on tunnel-type anchorage for suspension bridge
     year: '2021'
   H9j924sAAAAJ:MXK_kJrjxJIC:
@@ -90,7 +90,7 @@ papers:
     title: 'Uncertainty-Aware Representation and Label Refinement on Tabular Data: Methods and Engineering Applications'
     year: '2026'
   H9j924sAAAAJ:Tyk-4Ss8FVUC:
-    citations: 31
+    citations: 32
     title: Evaluation of failure mode of tunnel-type anchorage for a suspension bridge via scaled model tests and image processing
     year: '2021'
   H9j924sAAAAJ:ULOm3_A8WrAC:
@@ -150,7 +150,7 @@ papers:
     title: A Study on Open-Pit Blasting Design Method Applying Charge per Hole as an Input Variable
     year: '2025'
   H9j924sAAAAJ:d1gkVwhDpl0C:
-    citations: 12
+    citations: 13
     title: Analysis of the passive earth pressure on a gravity-type anchorage for a suspension bridge
     year: '2020'
   H9j924sAAAAJ:e5wmG9Sq2KIC:
@@ -198,7 +198,7 @@ papers:
     title: 'Rethinking soft-ground settlement prediction: Learning settlement behavior via conditional generative modeling for cross-site generalization'
     year: '2026'
   H9j924sAAAAJ:qUcmZB5y_30C:
-    citations: 18
+    citations: 19
     title: Leveraging data-driven machine learning techniques to enhance bearing capacity estimation in prebored and precast piles
     year: '2025'
   H9j924sAAAAJ:qjMakFHDy7sC:
